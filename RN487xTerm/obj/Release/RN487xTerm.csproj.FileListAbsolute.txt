@@ -1,0 +1,11 @@
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\bin\Release\RN487xTerm.exe.config
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\bin\Release\RN487xTerm.exe
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\bin\Release\RN487xTerm.pdb
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\bin\Release\FTD2XX_NET.dll
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\bin\Release\FTD2XX_NET.xml
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\obj\Release\RN487xTerm.Properties.Resources.resources
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\obj\Release\RN487xTerm.RN487xTermF.resources
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\obj\Release\RN487xTerm.csproj.GenerateResource.Cache
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\obj\Release\RN487xTerm.csproj.CoreCompileInputs.cache
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\obj\Release\RN487xTerm.exe
+C:\Users\shuuichi\OneDrive\source\repos\RN487xTerm\RN487xTerm\obj\Release\RN487xTerm.pdb
